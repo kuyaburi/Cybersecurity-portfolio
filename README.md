@@ -4,5 +4,5 @@ My intro into cyber security wassort of the more traditional journey. I started 
 
 I currently hold the following certifications: A+, GFACT, GSEC, GCIH, GWAPT, GPYC. By the end of my program I will have 10-11 total GIAC certifications.
 
-I have participated in a few CTFs; TraceLabs Search party CTF where participants use OSINT skills to find artifacts about real missing people and submit them to authorities to help find these missing people. The second CTF i participated in was the National Cyber League where I place in the 81st percentile in the individual games.
+I have participated in a few CTFs; TraceLabs Search party CTF where participants use OSINT skills to find artifacts about real missing people and submit them to authorities to help find these missing people. The second CTF i participated in was the National Cyber League where I place in the 75th percentile (119/466) in the individual games.
 
